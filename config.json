@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://admin:asd123@ds349065.mlab.com:49065/gsp",
+    "secret": "most-secured-secret-of-gsp"
+}
